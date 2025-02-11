@@ -11,7 +11,7 @@ const projects = [
   },
   {
     "title": "Snap-n-Notify",
-    "description": "An AI-powered application that detects potholes using machine learning and automatically posts alerts on X (formerly Twitter) to notify authorities.",
+    "description": "An application that detects potholes using machine learning and automatically posts alerts on X (formerly Twitter) to notify authorities.",
     "tech": ["Python", "Flask", "Machine Learning", "Twitter API"],
     "image": "snap-n-notify.webp",
     "link": "https://github.com/Venkat-2104/Snap-N-Notify"
