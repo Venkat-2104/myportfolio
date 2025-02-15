@@ -12,7 +12,7 @@ export default function About() {
             <h2 className="text-2xl sm:text-3xl font-bold text-white">About Me</h2>
           </div>
           <div className="bg-gray-900 rounded-xl shadow-lg p-6 sm:p-8 hover:shadow-xl transition-shadow">
-            <div className="flex flex-col md:flex-row gap-6 sm:gap-8 items-center md:items-start">
+            <div className="flex flex-col gap-6 sm:gap-8 items-center md:items-start">
               <img
                 src="profile_img.jpg"
                 alt="Profile"
